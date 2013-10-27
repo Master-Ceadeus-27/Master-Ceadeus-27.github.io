@@ -15,6 +15,12 @@ h2 {
   float:left;
   border-radius:20px;
 }
+h3 {
+  width:inherit;
+  background-color:gray;
+  color:white;
+  text-size:20px;
+}
 body {
   background-color:#000099;
   border:30px solid #000;
@@ -78,4 +84,12 @@ ol {
   font-size:20px;
   width:25%;
   float:right;
+}
+.RailH {
+  width:20%;
+  height:30px;
+  border-radius:10px;
+  box-shadow:11px 11px 6px #0000ff;
+}
+
 }
