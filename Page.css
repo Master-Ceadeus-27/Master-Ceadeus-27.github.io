@@ -62,3 +62,20 @@ Footer {
   font-size:22px;
   font-family:Bradley Hand ITC;
 }
+ol {
+  text-align:left;
+  color:#FFFFD6;
+  font-size:18px;
+}
+#Railway {
+  text-align:center;
+  color:white;
+}
+.Rail1 {
+  cursor:url('http://images2.wikia.nocookie.net/__cb20130705141111/monsterhunterfanon/images/9/99/Fanon-Cursor-Lance-3.png'), pointer;
+  color:inherit;
+  background-color:black;
+  font-size:20px;
+  width:25%;
+  float:right;
+}
